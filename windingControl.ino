@@ -19,7 +19,7 @@ License
 
 
 //-----------------------------------------------------------
-//         USER CONTROL SECTION - WINDING SETUP
+//         USER CONTROL SECTION - WINDING SCHEME SETUP
 //-----------------------------------------------------------
 unsigned int strokes = 10   ;  // Total strokes
 float wps      = 1.0       ;  // Speed (revolutions per second)
